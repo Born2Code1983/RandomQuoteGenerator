@@ -1,0 +1,54 @@
+
+
+body{
+    background-color:#252525;
+}
+header {
+    
+    display: block;
+    text-align:center;
+    margin-bottom:100px;
+    font-weight: bold;
+    font-size:3vw;
+    box-shadow: 0px 10px 5px #e0f334;
+}
+
+ul {
+    list-style-type: square;
+    list-style-position: outside;
+    list-style-image: none;
+    color:white;
+    font-size:20px;
+    text-align: center; 
+   }
+
+   #quoteText{
+    color:black;
+    min-height:250px;
+    max-width:500px;
+    z-index:2;
+    margin:auto;
+    background-color:white;
+    border-radius:20px;
+}
+   #buttonDiv{
+    text-align:center;
+   }
+
+   #authorText{
+    color:red;
+    background-color:yellow;
+    display:block;  
+   }
+
+   #footer{
+    min-height:50px;
+   }
+
+ 
+#tweetButton {
+    color:#1dcaff;
+    padding:0;
+    border:0;
+    }
+    
